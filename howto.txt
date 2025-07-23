@@ -1,0 +1,8 @@
+1.Change api key to your own.
+2.From terminal run:
+3.Run in terminal: pip install streamlit pandas requests
+4.Run in terminal: streamlit run .\frontend.py
+
+Once streamlit is running:
+5.In code, we have file locations we have to initialize; file_loc1 and file_loc2. Change the directories to locations that you want.
+6.In localhost, add files and run. 
